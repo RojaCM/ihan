@@ -1,0 +1,822 @@
+mcid,dos,codeIndex,cd_value,ICD_FULL_DESC,type
+0,2017-02-28,13415,M25551,Pain in right hip,diag
+0,2017-06-27,13415,M25551,Pain in right hip,diag
+0,2017-08-22,13415,M25551,Pain in right hip,diag
+0,2018-02-22,13415,M25551,Pain in right hip,diag
+0,2018-04-18,13415,M25551,Pain in right hip,diag
+0,2018-08-22,13415,M25551,Pain in right hip,diag
+0,2018-10-24,13415,M25551,Pain in right hip,diag
+3,2018-12-05,13415,M25551,Pain in right hip,diag
+3,2018-12-11,13415,M25551,Pain in right hip,diag
+3,2018-12-19,13415,M25551,Pain in right hip,diag
+3,2019-01-03,13415,M25551,Pain in right hip,diag
+3,2019-01-08,13415,M25551,Pain in right hip,diag
+3,2019-01-09,13415,M25551,Pain in right hip,diag
+3,2019-01-10,13415,M25551,Pain in right hip,diag
+3,2019-01-29,13415,M25551,Pain in right hip,diag
+3,2019-02-26,13415,M25551,Pain in right hip,diag
+3,2019-04-03,13415,M25551,Pain in right hip,diag
+3,2019-05-08,13415,M25551,Pain in right hip,diag
+3,2019-06-10,13415,M25551,Pain in right hip,diag
+0,2017-02-28,13416,M25552,Pain in left hip,diag
+0,2017-06-27,13416,M25552,Pain in left hip,diag
+0,2017-08-22,13416,M25552,Pain in left hip,diag
+0,2018-02-22,13416,M25552,Pain in left hip,diag
+0,2018-04-18,13416,M25552,Pain in left hip,diag
+0,2018-08-22,13416,M25552,Pain in left hip,diag
+0,2018-10-24,13416,M25552,Pain in left hip,diag
+0,2017-02-28,14071,M5030,"Other cervical disc degeneration, unspecified cervical region",diag
+0,2017-02-28,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2017-06-27,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2017-08-22,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2017-10-25,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2017-12-20,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2018-02-22,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2018-04-18,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2018-08-22,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2018-10-24,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2018-12-18,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2019-02-15,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2019-04-17,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2019-08-21,14109,M5136,"Other intervertebral disc degeneration, lumbar region",diag
+0,2017-02-28,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2017-06-27,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2017-08-22,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2017-10-25,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2017-12-20,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2018-02-22,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2018-04-18,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2018-08-22,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2018-09-04,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2018-10-19,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2018-10-24,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2018-12-18,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2019-02-15,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2019-04-17,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2019-08-21,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2019-10-21,42210,Z79891,Long term (current) use of opiate analgesic,diag
+0,2017-05-26,2907,E039,"Hypothyroidism, unspecified",diag
+0,2017-08-24,2907,E039,"Hypothyroidism, unspecified",diag
+0,2018-01-02,2907,E039,"Hypothyroidism, unspecified",diag
+0,2018-07-05,2907,E039,"Hypothyroidism, unspecified",diag
+0,2019-10-16,2907,E039,"Hypothyroidism, unspecified",diag
+0,2017-06-27,14074,M50320,"Other cervical disc degeneration, mid-cervical region, unspecified level",diag
+0,2017-08-22,14074,M50320,"Other cervical disc degeneration, mid-cervical region, unspecified level",diag
+0,2017-10-25,14074,M50320,"Other cervical disc degeneration, mid-cervical region, unspecified level",diag
+0,2017-12-20,14074,M50320,"Other cervical disc degeneration, mid-cervical region, unspecified level",diag
+0,2018-02-22,14074,M50320,"Other cervical disc degeneration, mid-cervical region, unspecified level",diag
+0,2018-04-18,14074,M50320,"Other cervical disc degeneration, mid-cervical region, unspecified level",diag
+0,2018-08-22,14074,M50320,"Other cervical disc degeneration, mid-cervical region, unspecified level",diag
+0,2018-10-24,14074,M50320,"Other cervical disc degeneration, mid-cervical region, unspecified level",diag
+0,2017-08-06,16847,N3001,Acute cystitis with hematuria,diag
+0,2017-08-06,19359,R300,Dysuria,diag
+0,2017-08-06,19615,R609,"Edema, unspecified",diag
+0,2017-08-24,3656,E785,"Hyperlipidemia, unspecified",diag
+0,2018-01-02,3656,E785,"Hyperlipidemia, unspecified",diag
+0,2018-07-05,3656,E785,"Hyperlipidemia, unspecified",diag
+0,2019-10-16,3656,E785,"Hyperlipidemia, unspecified",diag
+2,2017-06-07,3656,E785,"Hyperlipidemia, unspecified",diag
+2,2019-05-08,3656,E785,"Hyperlipidemia, unspecified",diag
+2,2019-05-09,3656,E785,"Hyperlipidemia, unspecified",diag
+0,2017-08-24,4246,F329,"Major depressive disorder, single episode, unspecified",diag
+0,2017-12-20,41584,Z1389,Encounter for screening for other disorder,diag
+0,2018-01-02,4257,F339,"Major depressive disorder, recurrent, unspecified",diag
+0,2018-07-05,4257,F339,"Major depressive disorder, recurrent, unspecified",diag
+0,2019-10-16,4257,F339,"Major depressive disorder, recurrent, unspecified",diag
+0,2018-01-02,5033,G8929,Other chronic pain,diag
+0,2018-07-05,5033,G8929,Other chronic pain,diag
+2,2017-06-07,5033,G8929,Other chronic pain,diag
+2,2019-05-08,5033,G8929,Other chronic pain,diag
+2,2019-05-09,5033,G8929,Other chronic pain,diag
+3,2018-02-12,5033,G8929,Other chronic pain,diag
+3,2018-05-08,5033,G8929,Other chronic pain,diag
+3,2018-11-06,5033,G8929,Other chronic pain,diag
+0,2018-04-10,16922,N390,"Urinary tract infection, site not specified",diag
+0,2018-04-10,19121,R030,"Elevated blood-pressure reading, without diagnosis of hypertension",diag
+0,2018-04-10,19613,R600,Localized edema,diag
+0,2018-07-05,19613,R600,Localized edema,diag
+0,2018-07-05,8340,I10,Essential (primary) hypertension,diag
+0,2019-10-16,8340,I10,Essential (primary) hypertension,diag
+1,2017-06-07,8340,I10,Essential (primary) hypertension,diag
+1,2017-07-12,8340,I10,Essential (primary) hypertension,diag
+1,2017-08-14,8340,I10,Essential (primary) hypertension,diag
+1,2017-09-11,8340,I10,Essential (primary) hypertension,diag
+1,2017-10-18,8340,I10,Essential (primary) hypertension,diag
+1,2017-12-04,8340,I10,Essential (primary) hypertension,diag
+1,2018-01-08,8340,I10,Essential (primary) hypertension,diag
+1,2018-02-07,8340,I10,Essential (primary) hypertension,diag
+1,2018-03-07,8340,I10,Essential (primary) hypertension,diag
+1,2018-04-09,8340,I10,Essential (primary) hypertension,diag
+1,2018-06-18,8340,I10,Essential (primary) hypertension,diag
+1,2018-07-18,8340,I10,Essential (primary) hypertension,diag
+1,2018-08-22,8340,I10,Essential (primary) hypertension,diag
+1,2018-10-15,8340,I10,Essential (primary) hypertension,diag
+1,2018-11-12,8340,I10,Essential (primary) hypertension,diag
+1,2018-12-12,8340,I10,Essential (primary) hypertension,diag
+1,2019-01-14,8340,I10,Essential (primary) hypertension,diag
+1,2019-02-20,8340,I10,Essential (primary) hypertension,diag
+1,2019-03-18,8340,I10,Essential (primary) hypertension,diag
+2,2017-05-26,8340,I10,Essential (primary) hypertension,diag
+2,2017-06-08,8340,I10,Essential (primary) hypertension,diag
+2,2019-04-24,8340,I10,Essential (primary) hypertension,diag
+2,2019-04-25,8340,I10,Essential (primary) hypertension,diag
+2,2019-05-08,8340,I10,Essential (primary) hypertension,diag
+3,2018-02-12,8340,I10,Essential (primary) hypertension,diag
+3,2018-05-08,8340,I10,Essential (primary) hypertension,diag
+3,2018-11-06,8340,I10,Essential (primary) hypertension,diag
+3,2019-03-20,8340,I10,Essential (primary) hypertension,diag
+0,2018-09-04,13908,M4725,"Other spondylosis with radiculopathy, thoracolumbar region",diag
+0,2018-10-19,13908,M4725,"Other spondylosis with radiculopathy, thoracolumbar region",diag
+0,2018-11-12,13908,M4725,"Other spondylosis with radiculopathy, thoracolumbar region",diag
+0,2018-11-06,13909,M4726,"Other spondylosis with radiculopathy, lumbar region",diag
+0,2018-11-15,14108,M5135,"Other intervertebral disc degeneration, thoracolumbar region",diag
+0,2018-11-15,14172,M545,Low back pain,diag
+0,2019-04-24,14172,M545,Low back pain,diag
+0,2019-05-12,14172,M545,Low back pain,diag
+0,2019-06-06,14172,M545,Low back pain,diag
+0,2019-06-08,14172,M545,Low back pain,diag
+4,2017-02-21,14172,M545,Low back pain,diag
+4,2019-05-07,14172,M545,Low back pain,diag
+0,2019-01-09,14160,M5416,"Radiculopathy, lumbar region",diag
+0,2019-06-03,14160,M5416,"Radiculopathy, lumbar region",diag
+0,2019-06-08,14160,M5416,"Radiculopathy, lumbar region",diag
+0,2019-09-17,14160,M5416,"Radiculopathy, lumbar region",diag
+0,2019-11-26,14160,M5416,"Radiculopathy, lumbar region",diag
+4,2017-02-21,14160,M5416,"Radiculopathy, lumbar region",diag
+0,2019-03-28,19153,R0781,Pleurodynia,diag
+0,2019-03-28,22158,S2239XA,"Fracture of one rib, unspecified side, initial encounter for closed fracture",diag
+0,2019-03-28,40376,W19XXXA,"Unspecified fall, initial encounter",diag
+0,2019-04-11,13410,M25532,Pain in left wrist,diag
+3,2018-02-28,13410,M25532,Pain in left wrist,diag
+3,2018-03-19,13410,M25532,Pain in left wrist,diag
+3,2018-03-26,13410,M25532,Pain in left wrist,diag
+3,2018-03-30,13410,M25532,Pain in left wrist,diag
+3,2018-04-09,13410,M25532,Pain in left wrist,diag
+3,2018-04-13,13410,M25532,Pain in left wrist,diag
+3,2018-04-20,13410,M25532,Pain in left wrist,diag
+3,2018-04-24,13410,M25532,Pain in left wrist,diag
+3,2018-06-20,13410,M25532,Pain in left wrist,diag
+3,2018-08-08,13410,M25532,Pain in left wrist,diag
+3,2018-09-07,13410,M25532,Pain in left wrist,diag
+3,2018-10-24,13410,M25532,Pain in left wrist,diag
+0,2019-04-24,15101,M79605,Pain in left leg,diag
+0,2019-05-12,15101,M79605,Pain in left leg,diag
+0,2019-04-28,9638,J0100,"Acute maxillary sinusitis, unspecified",diag
+0,2019-06-06,2939,E079,"Disorder of thyroid, unspecified",diag
+0,2019-06-06,15103,M79609,Pain in unspecified limb,diag
+0,2019-06-06,42211,Z79899,Other long term (current) drug therapy,diag
+2,2017-05-18,42211,Z79899,Other long term (current) drug therapy,diag
+2,2017-06-07,42211,Z79899,Other long term (current) drug therapy,diag
+2,2019-04-24,42211,Z79899,Other long term (current) drug therapy,diag
+2,2019-05-08,42211,Z79899,Other long term (current) drug therapy,diag
+2,2019-05-09,42211,Z79899,Other long term (current) drug therapy,diag
+4,2019-07-16,42211,Z79899,Other long term (current) drug therapy,diag
+0,2019-06-08,16542,M961,"Postlaminectomy syndrome, not elsewhere classified",diag
+0,2019-06-21,4325,F451,Undifferentiated somatoform disorder,diag
+0,2019-10-16,4759,G4700,"Insomnia, unspecified",diag
+0,2019-10-16,7772,H6121,"Impacted cerumen, right ear",diag
+0,2019-10-16,41534,Z1211,Encounter for screening for malignant neoplasm of colon,diag
+3,2018-11-06,41534,Z1211,Encounter for screening for malignant neoplasm of colon,diag
+0,2019-10-16,41535,Z1212,Encounter for screening for malignant neoplasm of rectum,diag
+0,2019-10-16,41665,Z23,Encounter for immunization,diag
+1,2019-10-04,41665,Z23,Encounter for immunization,diag
+1,2019-10-07,41665,Z23,Encounter for immunization,diag
+1,2019-10-11,41665,Z23,Encounter for immunization,diag
+1,2019-10-14,41665,Z23,Encounter for immunization,diag
+1,2019-10-18,41665,Z23,Encounter for immunization,diag
+1,2019-10-21,41665,Z23,Encounter for immunization,diag
+1,2019-10-25,41665,Z23,Encounter for immunization,diag
+1,2019-10-28,41665,Z23,Encounter for immunization,diag
+0,2019-10-21,13918,M47816,"Spondylosis without myelopathy or radiculopathy, lumbar region",diag
+0,2019-11-11,2333,D1801,Hemangioma of skin and subcutaneous tissue,diag
+0,2019-11-11,11120,L570,Actinic keratosis,diag
+0,2019-11-11,11232,L814,Other melanin hyperpigmentation,diag
+0,2019-11-11,11240,L821,Other seborrheic keratosis,diag
+0,2019-11-11,41519,Z08,Encounter for follow-up examination after completed treatment for malignant neoplasm,diag
+0,2019-11-11,41520,Z09,Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm,diag
+0,2019-11-11,42318,Z85828,Personal history of other malignant neoplasm of skin,diag
+0,2019-11-11,42369,Z872,Personal history of diseases of the skin and subcutaneous tissue,diag
+0,2019-11-18,6285,H2513,"Age-related nuclear cataract, bilateral",diag
+0,2019-12-26,6285,H2513,"Age-related nuclear cataract, bilateral",diag
+0,2019-11-18,6735,H35371,"Puckering of macula, right eye",diag
+0,2019-12-26,6723,H35341,"Macular cyst, hole, or pseudohole, right eye",diag
+1,2017-01-23,10455,K562,Volvulus,diag
+1,2017-01-23,10550,K635,Polyp of colon,diag
+1,2017-01-23,10552,K6389,Other specified diseases of intestine,diag
+1,2017-01-23,42338,Z86010,Personal history of colonic polyps,diag
+1,2017-02-01,2758,D692,Other nonthrombocytopenic purpura,diag
+4,2017-12-12,2758,D692,Other nonthrombocytopenic purpura,diag
+4,2018-06-06,2758,D692,Other nonthrombocytopenic purpura,diag
+4,2019-07-16,2758,D692,Other nonthrombocytopenic purpura,diag
+1,2017-02-01,3810,F1021,"Alcohol dependence, in remission",diag
+1,2017-02-01,4098,F17219,"Nicotine dependence, cigarettes, with unspecified nicotine-induced disorders",diag
+1,2017-02-01,8346,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",diag
+2,2017-06-07,8346,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",diag
+2,2019-05-08,8346,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",diag
+2,2019-05-09,8346,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",diag
+1,2017-02-01,9236,I739,"Peripheral vascular disease, unspecified",diag
+1,2017-02-01,9815,J449,"Chronic obstructive pulmonary disease, unspecified",diag
+4,2017-12-12,9815,J449,"Chronic obstructive pulmonary disease, unspecified",diag
+4,2018-06-06,9815,J449,"Chronic obstructive pulmonary disease, unspecified",diag
+4,2018-11-29,9815,J449,"Chronic obstructive pulmonary disease, unspecified",diag
+4,2019-07-16,9815,J449,"Chronic obstructive pulmonary disease, unspecified",diag
+1,2017-02-01,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2017-06-07,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2017-07-12,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2017-08-14,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2017-09-11,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2017-10-18,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2017-12-04,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-01-08,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-02-07,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-03-07,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-04-09,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-05-14,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-06-18,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-07-18,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-08-22,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-10-15,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-11-12,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2018-12-12,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2019-01-14,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2019-02-20,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2019-03-18,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2019-04-22,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2019-05-13,16806,N184,"Chronic kidney disease, stage 4 (severe)",diag
+1,2017-02-01,41554,Z131,Encounter for screening for diabetes mellitus,diag
+1,2017-02-01,41585,Z139,"Encounter for screening, unspecified",diag
+1,2017-02-01,42117,Z7189,Other specified counseling,diag
+4,2019-07-16,42117,Z7189,Other specified counseling,diag
+1,2017-02-01,42678,Z992,Dependence on renal dialysis,diag
+1,2019-06-03,42678,Z992,Dependence on renal dialysis,diag
+1,2019-06-07,42678,Z992,Dependence on renal dialysis,diag
+1,2019-06-10,42678,Z992,Dependence on renal dialysis,diag
+1,2019-06-14,42678,Z992,Dependence on renal dialysis,diag
+1,2019-06-17,42678,Z992,Dependence on renal dialysis,diag
+1,2019-06-21,42678,Z992,Dependence on renal dialysis,diag
+1,2019-06-24,42678,Z992,Dependence on renal dialysis,diag
+1,2019-06-28,42678,Z992,Dependence on renal dialysis,diag
+1,2019-07-01,42678,Z992,Dependence on renal dialysis,diag
+1,2019-07-05,42678,Z992,Dependence on renal dialysis,diag
+1,2019-07-08,42678,Z992,Dependence on renal dialysis,diag
+1,2019-07-12,42678,Z992,Dependence on renal dialysis,diag
+1,2019-07-15,42678,Z992,Dependence on renal dialysis,diag
+1,2019-07-19,42678,Z992,Dependence on renal dialysis,diag
+1,2019-07-22,42678,Z992,Dependence on renal dialysis,diag
+1,2019-07-26,42678,Z992,Dependence on renal dialysis,diag
+1,2019-07-29,42678,Z992,Dependence on renal dialysis,diag
+1,2019-08-05,42678,Z992,Dependence on renal dialysis,diag
+1,2019-08-19,42678,Z992,Dependence on renal dialysis,diag
+1,2019-08-23,42678,Z992,Dependence on renal dialysis,diag
+1,2019-08-26,42678,Z992,Dependence on renal dialysis,diag
+1,2019-08-30,42678,Z992,Dependence on renal dialysis,diag
+1,2019-09-02,42678,Z992,Dependence on renal dialysis,diag
+1,2019-09-06,42678,Z992,Dependence on renal dialysis,diag
+1,2019-09-09,42678,Z992,Dependence on renal dialysis,diag
+1,2019-09-13,42678,Z992,Dependence on renal dialysis,diag
+1,2019-09-16,42678,Z992,Dependence on renal dialysis,diag
+1,2019-09-20,42678,Z992,Dependence on renal dialysis,diag
+1,2019-09-23,42678,Z992,Dependence on renal dialysis,diag
+1,2019-09-27,42678,Z992,Dependence on renal dialysis,diag
+1,2019-09-30,42678,Z992,Dependence on renal dialysis,diag
+1,2019-10-04,42678,Z992,Dependence on renal dialysis,diag
+1,2019-10-07,42678,Z992,Dependence on renal dialysis,diag
+1,2019-10-11,42678,Z992,Dependence on renal dialysis,diag
+1,2019-10-14,42678,Z992,Dependence on renal dialysis,diag
+1,2019-10-18,42678,Z992,Dependence on renal dialysis,diag
+1,2019-10-21,42678,Z992,Dependence on renal dialysis,diag
+1,2019-10-25,42678,Z992,Dependence on renal dialysis,diag
+1,2019-10-28,42678,Z992,Dependence on renal dialysis,diag
+1,2019-11-01,42678,Z992,Dependence on renal dialysis,diag
+1,2019-11-04,42678,Z992,Dependence on renal dialysis,diag
+1,2019-11-08,42678,Z992,Dependence on renal dialysis,diag
+1,2019-11-11,42678,Z992,Dependence on renal dialysis,diag
+1,2019-11-15,42678,Z992,Dependence on renal dialysis,diag
+1,2019-11-18,42678,Z992,Dependence on renal dialysis,diag
+1,2019-11-22,42678,Z992,Dependence on renal dialysis,diag
+1,2019-11-25,42678,Z992,Dependence on renal dialysis,diag
+1,2019-11-29,42678,Z992,Dependence on renal dialysis,diag
+1,2017-06-07,10680,K8080,Other cholelithiasis without obstruction,diag
+1,2017-06-07,10726,K861,Other chronic pancreatitis,diag
+1,2017-07-12,10726,K861,Other chronic pancreatitis,diag
+1,2017-08-14,10726,K861,Other chronic pancreatitis,diag
+1,2017-09-11,10726,K861,Other chronic pancreatitis,diag
+1,2017-10-18,10726,K861,Other chronic pancreatitis,diag
+1,2017-12-04,10726,K861,Other chronic pancreatitis,diag
+1,2018-01-08,10726,K861,Other chronic pancreatitis,diag
+1,2018-02-07,10726,K861,Other chronic pancreatitis,diag
+1,2018-03-07,10726,K861,Other chronic pancreatitis,diag
+1,2018-04-09,10726,K861,Other chronic pancreatitis,diag
+1,2018-05-14,10726,K861,Other chronic pancreatitis,diag
+1,2018-06-18,10726,K861,Other chronic pancreatitis,diag
+1,2018-07-18,10726,K861,Other chronic pancreatitis,diag
+1,2018-08-22,10726,K861,Other chronic pancreatitis,diag
+1,2018-10-15,10726,K861,Other chronic pancreatitis,diag
+1,2018-11-12,10726,K861,Other chronic pancreatitis,diag
+1,2018-12-12,10726,K861,Other chronic pancreatitis,diag
+1,2019-01-14,10726,K861,Other chronic pancreatitis,diag
+1,2019-02-20,10726,K861,Other chronic pancreatitis,diag
+1,2019-03-18,10726,K861,Other chronic pancreatitis,diag
+1,2019-04-22,10726,K861,Other chronic pancreatitis,diag
+1,2019-05-13,10726,K861,Other chronic pancreatitis,diag
+1,2019-10-22,10726,K861,Other chronic pancreatitis,diag
+1,2018-01-08,9673,J069,"Acute upper respiratory infection, unspecified",diag
+1,2019-06-03,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-06-07,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-06-10,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-06-14,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-06-17,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-06-21,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-06-24,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-06-28,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-07-01,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-07-05,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-07-08,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-07-12,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-07-15,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-07-19,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-07-22,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-07-26,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-07-29,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-08-05,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-08-19,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-08-23,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-08-26,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-08-30,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-09-02,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-09-06,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-09-09,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-09-13,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-09-16,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-09-20,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-09-23,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-09-27,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-09-30,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-10-04,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-10-07,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-10-11,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-10-14,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-10-18,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-10-21,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-10-25,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-10-28,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-11-01,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-11-04,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-11-08,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-11-11,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-11-15,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-11-18,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-11-22,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-11-25,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-11-29,3699,E8350,Unspecified disorder of calcium metabolism,diag
+1,2019-06-03,16808,N186,End stage renal disease,diag
+1,2019-06-07,16808,N186,End stage renal disease,diag
+1,2019-06-10,16808,N186,End stage renal disease,diag
+1,2019-06-14,16808,N186,End stage renal disease,diag
+1,2019-06-17,16808,N186,End stage renal disease,diag
+1,2019-06-21,16808,N186,End stage renal disease,diag
+1,2019-06-24,16808,N186,End stage renal disease,diag
+1,2019-06-28,16808,N186,End stage renal disease,diag
+1,2019-07-01,16808,N186,End stage renal disease,diag
+1,2019-07-05,16808,N186,End stage renal disease,diag
+1,2019-07-08,16808,N186,End stage renal disease,diag
+1,2019-07-11,16808,N186,End stage renal disease,diag
+1,2019-07-12,16808,N186,End stage renal disease,diag
+1,2019-07-15,16808,N186,End stage renal disease,diag
+1,2019-07-19,16808,N186,End stage renal disease,diag
+1,2019-07-22,16808,N186,End stage renal disease,diag
+1,2019-07-26,16808,N186,End stage renal disease,diag
+1,2019-07-29,16808,N186,End stage renal disease,diag
+1,2019-08-05,16808,N186,End stage renal disease,diag
+1,2019-08-06,16808,N186,End stage renal disease,diag
+1,2019-08-19,16808,N186,End stage renal disease,diag
+1,2019-08-23,16808,N186,End stage renal disease,diag
+1,2019-08-26,16808,N186,End stage renal disease,diag
+1,2019-08-30,16808,N186,End stage renal disease,diag
+1,2019-09-02,16808,N186,End stage renal disease,diag
+1,2019-09-06,16808,N186,End stage renal disease,diag
+1,2019-09-09,16808,N186,End stage renal disease,diag
+1,2019-09-13,16808,N186,End stage renal disease,diag
+1,2019-09-16,16808,N186,End stage renal disease,diag
+1,2019-09-20,16808,N186,End stage renal disease,diag
+1,2019-09-23,16808,N186,End stage renal disease,diag
+1,2019-09-27,16808,N186,End stage renal disease,diag
+1,2019-09-30,16808,N186,End stage renal disease,diag
+1,2019-10-04,16808,N186,End stage renal disease,diag
+1,2019-10-07,16808,N186,End stage renal disease,diag
+1,2019-10-11,16808,N186,End stage renal disease,diag
+1,2019-10-14,16808,N186,End stage renal disease,diag
+1,2019-10-18,16808,N186,End stage renal disease,diag
+1,2019-10-21,16808,N186,End stage renal disease,diag
+1,2019-10-25,16808,N186,End stage renal disease,diag
+1,2019-10-28,16808,N186,End stage renal disease,diag
+1,2019-11-01,16808,N186,End stage renal disease,diag
+1,2019-11-04,16808,N186,End stage renal disease,diag
+1,2019-11-08,16808,N186,End stage renal disease,diag
+1,2019-11-11,16808,N186,End stage renal disease,diag
+1,2019-11-15,16808,N186,End stage renal disease,diag
+1,2019-11-18,16808,N186,End stage renal disease,diag
+1,2019-11-22,16808,N186,End stage renal disease,diag
+1,2019-11-25,16808,N186,End stage renal disease,diag
+1,2019-11-29,16808,N186,End stage renal disease,diag
+1,2019-07-11,19195,R109,Unspecified abdominal pain,diag
+2,2017-04-19,19195,R109,Unspecified abdominal pain,diag
+1,2019-08-06,19694,R799,"Abnormal finding of blood chemistry, unspecified",diag
+1,2019-10-22,10722,K8590,"Acute pancreatitis without necrosis or infection, unspecified",diag
+2,2017-03-06,763,B351,Tinea unguium,diag
+2,2017-05-08,763,B351,Tinea unguium,diag
+2,2017-08-07,763,B351,Tinea unguium,diag
+2,2017-10-16,763,B351,Tinea unguium,diag
+2,2017-12-18,763,B351,Tinea unguium,diag
+2,2018-03-05,763,B351,Tinea unguium,diag
+2,2018-05-14,763,B351,Tinea unguium,diag
+2,2018-08-06,763,B351,Tinea unguium,diag
+2,2018-10-22,763,B351,Tinea unguium,diag
+2,2019-01-07,763,B351,Tinea unguium,diag
+2,2019-03-11,763,B351,Tinea unguium,diag
+2,2019-06-03,763,B351,Tinea unguium,diag
+2,2019-08-12,763,B351,Tinea unguium,diag
+2,2019-10-14,763,B351,Tinea unguium,diag
+2,2017-03-06,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2017-05-08,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2017-08-07,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-05-13,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-05-17,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-05-22,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-05-24,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-05-29,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-05-31,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-06-05,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-06-07,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-06-10,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-06-12,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-06-14,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2019-06-19,19295,R262,"Difficulty in walking, not elsewhere classified",diag
+2,2017-04-13,42166,Z7689,Persons encountering health services in other specified circumstances,diag
+2,2017-04-19,9225,I723,Aneurysm of iliac artery,diag
+2,2017-04-19,9276,I77811,Abdominal aortic ectasia,diag
+2,2017-04-19,16374,M899,"Disorder of bone, unspecified",diag
+2,2017-04-19,16843,N289,"Disorder of kidney and ureter, unspecified",diag
+2,2017-04-24,12588,M170,Bilateral primary osteoarthritis of knee,diag
+2,2017-05-18,12588,M170,Bilateral primary osteoarthritis of knee,diag
+2,2017-12-05,12588,M170,Bilateral primary osteoarthritis of knee,diag
+3,2018-11-06,12588,M170,Bilateral primary osteoarthritis of knee,diag
+2,2017-05-16,12592,M1712,"Unilateral primary osteoarthritis, left knee",diag
+2,2017-05-26,12592,M1712,"Unilateral primary osteoarthritis, left knee",diag
+2,2017-06-07,12592,M1712,"Unilateral primary osteoarthritis, left knee",diag
+2,2017-05-18,41472,Z01818,Encounter for other preprocedural examination,diag
+2,2019-04-24,41472,Z01818,Encounter for other preprocedural examination,diag
+2,2017-05-18,42191,Z7901,Long term (current) use of anticoagulants,diag
+2,2017-05-26,4780,G4733,Obstructive sleep apnea (adult) (pediatric),diag
+2,2019-04-25,4780,G4733,Obstructive sleep apnea (adult) (pediatric),diag
+2,2017-05-26,16727,N040,Nephrotic syndrome with minor glomerular abnormality,diag
+2,2017-10-11,16727,N040,Nephrotic syndrome with minor glomerular abnormality,diag
+2,2017-10-25,16727,N040,Nephrotic syndrome with minor glomerular abnormality,diag
+2,2019-01-04,16727,N040,Nephrotic syndrome with minor glomerular abnormality,diag
+2,2019-01-16,16727,N040,Nephrotic syndrome with minor glomerular abnormality,diag
+2,2019-12-10,16727,N040,Nephrotic syndrome with minor glomerular abnormality,diag
+2,2019-12-18,16727,N040,Nephrotic syndrome with minor glomerular abnormality,diag
+2,2017-05-26,42382,Z87441,Personal history of nephrotic syndrome,diag
+2,2019-04-24,42382,Z87441,Personal history of nephrotic syndrome,diag
+2,2019-04-25,42382,Z87441,Personal history of nephrotic syndrome,diag
+2,2017-05-26,42682,Z9989,Dependence on other enabling machines and devices,diag
+2,2019-04-25,42682,Z9989,Dependence on other enabling machines and devices,diag
+2,2017-06-07,5029,G8918,Other acute postprocedural pain,diag
+2,2019-05-08,5029,G8918,Other acute postprocedural pain,diag
+2,2019-05-09,5029,G8918,Other acute postprocedural pain,diag
+3,2019-07-25,5029,G8918,Other acute postprocedural pain,diag
+2,2017-06-07,10173,K219,Gastro-esophageal reflux disease without esophagitis,diag
+2,2019-05-08,10173,K219,Gastro-esophageal reflux disease without esophagitis,diag
+2,2019-05-09,10173,K219,Gastro-esophageal reflux disease without esophagitis,diag
+2,2017-06-07,16809,N189,"Chronic kidney disease, unspecified",diag
+2,2019-05-08,16809,N189,"Chronic kidney disease, unspecified",diag
+2,2019-05-09,16809,N189,"Chronic kidney disease, unspecified",diag
+2,2017-06-07,42205,Z7982,Long term (current) use of aspirin,diag
+2,2017-06-12,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-06-14,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-06-16,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-06-19,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-06-21,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-06-23,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-06-26,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-06-28,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-06-30,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-07-03,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-07-05,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-07-07,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-07-10,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-07-12,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-07-14,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-07-17,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-07-21,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-12-05,42622,Z96652,Presence of left artificial knee joint,diag
+2,2018-05-01,42622,Z96652,Presence of left artificial knee joint,diag
+2,2019-05-08,42622,Z96652,Presence of left artificial knee joint,diag
+2,2019-05-09,42622,Z96652,Presence of left artificial knee joint,diag
+2,2017-09-05,41900,Z4789,Encounter for other orthopedic aftercare,diag
+2,2017-12-05,41900,Z4789,Encounter for other orthopedic aftercare,diag
+2,2017-10-16,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2017-12-18,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2018-03-05,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2018-05-14,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2018-08-06,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2018-10-22,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2019-01-07,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2019-03-11,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2019-06-03,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2019-08-12,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2019-10-14,4916,G608,Other hereditary and idiopathic neuropathies,diag
+2,2018-09-27,9803,J40,"Bronchitis, not specified as acute or chronic",diag
+2,2018-11-28,4292,F418,Other specified anxiety disorders,diag
+2,2018-11-28,9891,J8410,"Pulmonary fibrosis, unspecified",diag
+2,2018-11-28,19131,R0600,"Dyspnea, unspecified",diag
+2,2019-02-27,12591,M1711,"Unilateral primary osteoarthritis, right knee",diag
+2,2019-03-06,12591,M1711,"Unilateral primary osteoarthritis, right knee",diag
+2,2019-03-15,12591,M1711,"Unilateral primary osteoarthritis, right knee",diag
+2,2019-04-25,12591,M1711,"Unilateral primary osteoarthritis, right knee",diag
+2,2019-05-08,12591,M1711,"Unilateral primary osteoarthritis, right knee",diag
+2,2019-05-09,12591,M1711,"Unilateral primary osteoarthritis, right knee",diag
+3,2019-06-10,12591,M1711,"Unilateral primary osteoarthritis, right knee",diag
+2,2019-02-27,15100,M79604,Pain in right leg,diag
+2,2019-04-24,3648,E7800,"Pure hypercholesterolemia, unspecified",diag
+2,2019-04-24,4777,G4730,"Sleep apnea, unspecified",diag
+2,2019-04-24,41469,Z01810,Encounter for preprocedural cardiovascular examination,diag
+2,2019-04-25,41656,Z22322,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus,diag
+2,2019-05-08,13419,M25561,Pain in right knee,diag
+2,2019-05-09,13419,M25561,Pain in right knee,diag
+2,2019-05-13,13419,M25561,Pain in right knee,diag
+2,2019-05-17,13419,M25561,Pain in right knee,diag
+2,2019-05-22,13419,M25561,Pain in right knee,diag
+2,2019-05-24,13419,M25561,Pain in right knee,diag
+2,2019-05-29,13419,M25561,Pain in right knee,diag
+2,2019-05-31,13419,M25561,Pain in right knee,diag
+2,2019-06-05,13419,M25561,Pain in right knee,diag
+2,2019-06-07,13419,M25561,Pain in right knee,diag
+2,2019-06-10,13419,M25561,Pain in right knee,diag
+2,2019-06-12,13419,M25561,Pain in right knee,diag
+2,2019-06-14,13419,M25561,Pain in right knee,diag
+2,2019-06-19,13419,M25561,Pain in right knee,diag
+3,2018-05-08,13419,M25561,Pain in right knee,diag
+3,2018-12-11,13419,M25561,Pain in right knee,diag
+3,2018-12-19,13419,M25561,Pain in right knee,diag
+3,2019-01-03,13419,M25561,Pain in right knee,diag
+3,2019-01-08,13419,M25561,Pain in right knee,diag
+3,2019-01-10,13419,M25561,Pain in right knee,diag
+3,2019-01-29,13419,M25561,Pain in right knee,diag
+3,2019-02-26,13419,M25561,Pain in right knee,diag
+2,2019-05-08,19812,R918,Other nonspecific abnormal finding of lung field,diag
+2,2019-05-08,42406,Z87891,Personal history of nicotine dependence,diag
+2,2019-05-09,42406,Z87891,Personal history of nicotine dependence,diag
+2,2019-05-13,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-05-17,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-05-22,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-05-24,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-05-29,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-05-31,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-06-05,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-06-07,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-06-10,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-06-12,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-06-14,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-06-19,41893,Z471,Aftercare following joint replacement surgery,diag
+2,2019-05-13,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-05-17,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-05-22,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-05-24,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-05-29,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-05-31,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-06-05,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-06-07,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-06-10,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-06-12,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-06-14,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-06-19,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-10-21,42621,Z96651,Presence of right artificial knee joint,diag
+2,2019-08-12,11242,L84,Corns and callosities,diag
+3,2017-10-04,15098,M79602,Pain in left arm,diag
+3,2017-10-04,19584,R51,Headache,diag
+4,2018-09-12,19584,R51,Headache,diag
+4,2018-11-01,19584,R51,Headache,diag
+4,2019-01-11,19584,R51,Headache,diag
+3,2017-10-04,25354,S46912A,"Strain of unspecified muscle, fascia and tendon at shoulder and upper arm level, left arm, initial encounter",diag
+3,2017-10-04,26913,S60012A,"Contusion of left thumb without damage to nail, initial encounter",diag
+3,2017-10-04,29037,S63502A,"Unspecified sprain of left wrist, initial encounter",diag
+3,2017-10-04,39693,V4302XA,"Car driver injured in collision with other type car in nontraffic accident, initial encounter",diag
+3,2018-02-12,3518,E669,"Obesity, unspecified",diag
+3,2018-05-08,3518,E669,"Obesity, unspecified",diag
+3,2018-11-06,3518,E669,"Obesity, unspecified",diag
+3,2019-03-20,3518,E669,"Obesity, unspecified",diag
+3,2018-02-12,13402,M25512,Pain in left shoulder,diag
+3,2018-02-28,13402,M25512,Pain in left shoulder,diag
+3,2018-03-19,13402,M25512,Pain in left shoulder,diag
+3,2018-03-26,13402,M25512,Pain in left shoulder,diag
+3,2018-03-30,13402,M25512,Pain in left shoulder,diag
+3,2018-04-09,13402,M25512,Pain in left shoulder,diag
+3,2018-04-13,13402,M25512,Pain in left shoulder,diag
+3,2018-04-20,13402,M25512,Pain in left shoulder,diag
+3,2018-04-24,13402,M25512,Pain in left shoulder,diag
+3,2018-05-08,13402,M25512,Pain in left shoulder,diag
+3,2018-06-20,13402,M25512,Pain in left shoulder,diag
+3,2018-08-08,13402,M25512,Pain in left shoulder,diag
+3,2018-09-07,13402,M25512,Pain in left shoulder,diag
+3,2018-10-24,13402,M25512,Pain in left shoulder,diag
+3,2018-11-06,13402,M25512,Pain in left shoulder,diag
+3,2019-05-08,13402,M25512,Pain in left shoulder,diag
+3,2019-07-25,13402,M25512,Pain in left shoulder,diag
+3,2019-09-03,13402,M25512,Pain in left shoulder,diag
+3,2019-09-10,13402,M25512,Pain in left shoulder,diag
+3,2019-09-13,13402,M25512,Pain in left shoulder,diag
+3,2019-09-17,13402,M25512,Pain in left shoulder,diag
+3,2019-09-20,13402,M25512,Pain in left shoulder,diag
+3,2019-09-24,13402,M25512,Pain in left shoulder,diag
+3,2019-09-27,13402,M25512,Pain in left shoulder,diag
+3,2019-10-01,13402,M25512,Pain in left shoulder,diag
+3,2019-10-04,13402,M25512,Pain in left shoulder,diag
+3,2019-10-14,13402,M25512,Pain in left shoulder,diag
+4,2017-04-19,13402,M25512,Pain in left shoulder,diag
+4,2017-06-20,13402,M25512,Pain in left shoulder,diag
+4,2017-08-16,13402,M25512,Pain in left shoulder,diag
+4,2018-01-15,13402,M25512,Pain in left shoulder,diag
+4,2018-03-12,13402,M25512,Pain in left shoulder,diag
+4,2018-05-14,13402,M25512,Pain in left shoulder,diag
+4,2018-07-12,13402,M25512,Pain in left shoulder,diag
+4,2019-05-07,13402,M25512,Pain in left shoulder,diag
+3,2018-02-12,41438,Z0000,Encounter for general adult medical examination without abnormal findings,diag
+3,2018-11-06,41438,Z0000,Encounter for general adult medical examination without abnormal findings,diag
+4,2017-12-12,41438,Z0000,Encounter for general adult medical examination without abnormal findings,diag
+4,2018-06-06,41438,Z0000,Encounter for general adult medical examination without abnormal findings,diag
+4,2019-07-16,41438,Z0000,Encounter for general adult medical examination without abnormal findings,diag
+3,2018-02-12,41538,Z1231,Encounter for screening mammogram for malignant neoplasm of breast,diag
+3,2018-02-12,42076,Z6834,"Body mass index [BMI] 34.0-34.9, adult",diag
+3,2018-02-28,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2018-04-24,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2018-06-20,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2018-08-08,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2018-09-07,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2018-10-24,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-05-08,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-06-10,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-07-16,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-09-03,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-09-10,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-09-13,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-09-17,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-09-20,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-09-24,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-09-27,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-10-01,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-10-04,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2019-10-14,15019,M7542,Impingement syndrome of left shoulder,diag
+3,2018-02-28,15022,M7552,Bursitis of left shoulder,diag
+3,2018-04-24,15022,M7552,Bursitis of left shoulder,diag
+3,2018-06-20,15022,M7552,Bursitis of left shoulder,diag
+3,2018-08-08,15022,M7552,Bursitis of left shoulder,diag
+3,2018-09-07,15022,M7552,Bursitis of left shoulder,diag
+3,2018-10-24,15022,M7552,Bursitis of left shoulder,diag
+3,2018-02-28,15114,M79645,Pain in left finger(s),diag
+3,2018-04-24,15114,M79645,Pain in left finger(s),diag
+3,2018-06-20,15114,M79645,Pain in left finger(s),diag
+3,2018-08-08,15114,M79645,Pain in left finger(s),diag
+3,2018-09-07,15114,M79645,Pain in left finger(s),diag
+3,2018-10-24,15114,M79645,Pain in left finger(s),diag
+3,2018-02-28,28751,S63112A,"Subluxation of metacarpophalangeal joint of left thumb, initial encounter",diag
+3,2018-03-19,13406,M25522,Pain in left elbow,diag
+3,2018-03-26,13406,M25522,Pain in left elbow,diag
+3,2018-03-30,13406,M25522,Pain in left elbow,diag
+3,2018-04-09,13406,M25522,Pain in left elbow,diag
+3,2018-04-13,13406,M25522,Pain in left elbow,diag
+3,2018-04-20,13406,M25522,Pain in left elbow,diag
+3,2018-03-19,14156,M5412,"Radiculopathy, cervical region",diag
+3,2018-03-26,14156,M5412,"Radiculopathy, cervical region",diag
+3,2018-03-30,14156,M5412,"Radiculopathy, cervical region",diag
+3,2018-04-09,14156,M5412,"Radiculopathy, cervical region",diag
+3,2018-04-13,14156,M5412,"Radiculopathy, cervical region",diag
+3,2018-04-20,14156,M5412,"Radiculopathy, cervical region",diag
+4,2017-02-21,14156,M5412,"Radiculopathy, cervical region",diag
+3,2018-04-24,28752,S63112D,"Subluxation of metacarpophalangeal joint of left thumb, subsequent encounter",diag
+3,2018-06-20,28752,S63112D,"Subluxation of metacarpophalangeal joint of left thumb, subsequent encounter",diag
+3,2018-08-08,28752,S63112D,"Subluxation of metacarpophalangeal joint of left thumb, subsequent encounter",diag
+3,2018-09-07,28752,S63112D,"Subluxation of metacarpophalangeal joint of left thumb, subsequent encounter",diag
+3,2018-10-24,28752,S63112D,"Subluxation of metacarpophalangeal joint of left thumb, subsequent encounter",diag
+3,2018-05-08,9747,J301,Allergic rhinitis due to pollen,diag
+3,2018-05-08,13420,M25562,Pain in left knee,diag
+3,2018-05-08,42075,Z6833,"Body mass index [BMI] 33.0-33.9, adult",diag
+3,2018-09-07,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2018-10-24,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-05-08,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-06-10,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-07-25,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-09-03,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-09-10,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-09-13,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-09-17,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-09-20,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-09-24,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-09-27,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-10-01,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-10-04,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2019-10-14,15007,M75112,"Incomplete rotator cuff tear or rupture of left shoulder, not specified as traumatic",diag
+3,2018-11-06,19593,R5383,Other fatigue,diag
+3,2018-11-06,42072,Z6830,"Body mass index [BMI] 30.0-30.9, adult",diag
+3,2018-12-05,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2018-12-11,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2018-12-19,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2019-01-03,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2019-01-08,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2019-01-09,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2019-01-10,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2019-01-29,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2019-02-26,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2019-04-03,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2019-05-08,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2019-06-10,14824,M7061,"Trochanteric bursitis, right hip",diag
+3,2018-12-05,30989,S76011A,"Strain of muscle, fascia and tendon of right hip, initial encounter",diag
+3,2018-12-05,40873,X58XXXA,"Exposure to other specified factors, initial encounter",diag
+3,2018-12-11,14452,M6281,Muscle weakness (generalized),diag
+3,2018-12-19,14452,M6281,Muscle weakness (generalized),diag
+3,2019-01-03,14452,M6281,Muscle weakness (generalized),diag
+3,2019-01-08,14452,M6281,Muscle weakness (generalized),diag
+3,2019-01-10,14452,M6281,Muscle weakness (generalized),diag
+3,2019-01-29,14452,M6281,Muscle weakness (generalized),diag
+3,2019-02-26,14452,M6281,Muscle weakness (generalized),diag
+3,2019-09-03,14452,M6281,Muscle weakness (generalized),diag
+3,2019-09-10,14452,M6281,Muscle weakness (generalized),diag
+3,2019-09-13,14452,M6281,Muscle weakness (generalized),diag
+3,2019-09-17,14452,M6281,Muscle weakness (generalized),diag
+3,2019-09-20,14452,M6281,Muscle weakness (generalized),diag
+3,2019-09-24,14452,M6281,Muscle weakness (generalized),diag
+3,2019-09-27,14452,M6281,Muscle weakness (generalized),diag
+3,2019-10-01,14452,M6281,Muscle weakness (generalized),diag
+3,2019-10-04,14452,M6281,Muscle weakness (generalized),diag
+3,2019-10-14,14452,M6281,Muscle weakness (generalized),diag
+3,2019-04-03,32673,S83231A,"Complex tear of medial meniscus, current injury, right knee, initial encounter",diag
+3,2019-05-08,16510,M94261,"Chondromalacia, right knee",diag
+3,2019-06-10,16510,M94261,"Chondromalacia, right knee",diag
+3,2019-05-08,25064,S4352XA,"Sprain of left acromioclavicular joint, initial encounter",diag
+3,2019-07-16,25064,S4352XA,"Sprain of left acromioclavicular joint, initial encounter",diag
+3,2019-05-08,32674,S83231D,"Complex tear of medial meniscus, current injury, right knee, subsequent encounter",diag
+3,2019-06-10,32674,S83231D,"Complex tear of medial meniscus, current injury, right knee, subsequent encounter",diag
+3,2019-06-10,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-09-03,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-09-10,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-09-13,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-09-17,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-09-20,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-09-24,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-09-27,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-10-01,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-10-04,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+3,2019-10-14,25065,S4352XD,"Sprain of left acromioclavicular joint, subsequent encounter",diag
+4,2017-02-21,5035,G894,Chronic pain syndrome,diag
+4,2017-04-19,5035,G894,Chronic pain syndrome,diag
+4,2017-06-20,5035,G894,Chronic pain syndrome,diag
+4,2017-08-16,5035,G894,Chronic pain syndrome,diag
+4,2018-01-15,5035,G894,Chronic pain syndrome,diag
+4,2018-03-12,5035,G894,Chronic pain syndrome,diag
+4,2018-05-14,5035,G894,Chronic pain syndrome,diag
+4,2018-07-12,5035,G894,Chronic pain syndrome,diag
+4,2018-09-12,5035,G894,Chronic pain syndrome,diag
+4,2018-11-01,5035,G894,Chronic pain syndrome,diag
+4,2019-01-11,5035,G894,Chronic pain syndrome,diag
+4,2019-05-07,5035,G894,Chronic pain syndrome,diag
+4,2017-04-19,13401,M25511,Pain in right shoulder,diag
+4,2017-06-20,13401,M25511,Pain in right shoulder,diag
+4,2017-08-16,13401,M25511,Pain in right shoulder,diag
+4,2018-01-15,13401,M25511,Pain in right shoulder,diag
+4,2018-03-12,13401,M25511,Pain in right shoulder,diag
+4,2018-05-14,13401,M25511,Pain in right shoulder,diag
+4,2018-07-12,13401,M25511,Pain in right shoulder,diag
+4,2019-05-07,13401,M25511,Pain in right shoulder,diag
+4,2017-04-19,14163,M542,Cervicalgia,diag
+4,2017-06-20,14163,M542,Cervicalgia,diag
+4,2017-08-16,14163,M542,Cervicalgia,diag
+4,2018-01-15,14163,M542,Cervicalgia,diag
+4,2018-03-12,14163,M542,Cervicalgia,diag
+4,2018-05-14,14163,M542,Cervicalgia,diag
+4,2018-07-12,14163,M542,Cervicalgia,diag
+4,2018-09-12,14163,M542,Cervicalgia,diag
+4,2018-11-01,14163,M542,Cervicalgia,diag
+4,2019-01-11,14163,M542,Cervicalgia,diag
+4,2019-05-07,14163,M542,Cervicalgia,diag
+4,2017-12-12,3459,E46,Unspecified protein-calorie malnutrition,diag
+4,2017-12-12,3858,F1120,"Opioid dependence, uncomplicated",diag
+4,2018-06-06,3858,F1120,"Opioid dependence, uncomplicated",diag
+4,2019-07-16,3858,F1120,"Opioid dependence, uncomplicated",diag
+4,2017-12-12,9009,I700,Atherosclerosis of aorta,diag
+4,2018-06-06,9009,I700,Atherosclerosis of aorta,diag
+4,2019-07-16,9009,I700,Atherosclerosis of aorta,diag
+4,2018-06-06,5110,G992,Myelopathy in diseases classified elsewhere,diag
+4,2019-07-16,5110,G992,Myelopathy in diseases classified elsewhere,diag
+4,2018-07-12,4293,F419,"Anxiety disorder, unspecified",diag
+4,2018-09-12,4293,F419,"Anxiety disorder, unspecified",diag
+4,2018-11-01,4293,F419,"Anxiety disorder, unspecified",diag
+4,2019-01-11,4293,F419,"Anxiety disorder, unspecified",diag
+4,2019-05-07,4293,F419,"Anxiety disorder, unspecified",diag
+4,2018-07-12,4760,G4701,Insomnia due to medical condition,diag
+4,2019-05-07,4760,G4701,Insomnia due to medical condition,diag
+4,2018-09-12,14174,M546,Pain in thoracic spine,diag
+4,2018-11-01,14174,M546,Pain in thoracic spine,diag
+4,2019-01-11,14174,M546,Pain in thoracic spine,diag
+4,2019-05-07,14174,M546,Pain in thoracic spine,diag
+4,2018-11-29,9753,J309,"Allergic rhinitis, unspecified",diag
+4,2019-07-16,16939,N401,Benign prostatic hyperplasia with lower urinary tract symptoms,diag
